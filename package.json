@@ -1,0 +1,24 @@
+{
+  "name": "@shedali/remark-museai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo no build"
+  },
+  "keywords": [],
+  "author": "Franz Sittampalam",
+  "license": "ISC",
+  "devDependencies": {
+    "remark": "^13.0.0",
+    "remark-parse": "^9.0.0",
+    "remark-rehype": "^8.0.0",
+    "request": "^2.88.2",
+    "unified": "^9.2.0",
+    "unist-util-is": "^4.0.3",
+    "unist-util-visit": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
